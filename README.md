@@ -1,2 +1,2 @@
-# thenewsnetwork
-The News Network is a Website only made because I wanted to Learn React. :3
+# The News Network
+Hello and, Welcome to the News Network! 
